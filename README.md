@@ -8,7 +8,7 @@ I’m a passionate and young Software Engineer packing more than 3+ years of han
 
 👨‍💻 [My Portfolio](https://hesamzandian.dev)
 
-📄 [Download Resume](https://drive.google.com/file/d/16uzJHH6B-AJcwGBukONPNy9WwPCLY1cv/view)
+📄 [Download Resume](https://drive.google.com/file/d/1AiMIlPoR-vNr6saj1LEMwwuBBSCub25c/view)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/hesam-zandian-98155a120/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/hesam_zn/)
