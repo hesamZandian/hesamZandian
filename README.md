@@ -2,7 +2,7 @@
 
 I am a Front End Engineer with +4 years of experience in building high-performance web applications. I specialize in front-end technologies and UI/UX optimization, and I am eager to learn and backend technologies. I thrive on solving technical challenges and delivering impactful solutions in fast-paced environments.
 
-#### About Hesam's github
+#### About my github
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hesamZandian&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff)
 
 
