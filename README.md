@@ -7,7 +7,7 @@ I am a Front End Engineer with +4 years of experience in building high-performan
 
 👨‍💻 [My Portfolio](https://hesamzandian.dev)
 
-📄 [Download Resume](https://drive.google.com/file/d/1D0P_-pv6J-Qg-tVKZR7wyzfOz2EygT4p/view?usp=sharing)
+📄 [Download Resume](https://drive.google.com/file/d/1_mwEwMsePTV6pvKmU5RZ5_iiobYANixy/view)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/hesam-zandian-98155a120/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/hesam_zn/)
