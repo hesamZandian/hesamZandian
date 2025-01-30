@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Hesam**. You can call me **Sam**.
+# Hi 👋, I'm **Sam**.
 
 I am a Front End Engineer with over 4 years of experience in web development. My focus is on
 front-end, with familiarity in back-end technologies and a genuine eagerness to deepen my knowledge in
