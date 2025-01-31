@@ -11,7 +11,7 @@ I strongly believe that learning is a continuous journey , and there is always s
 
 👨‍💻 [My Portfolio](https://hesamzandian.dev)
 
-📄 [Download Resume](https://drive.google.com/file/d/1Wxk9eJWVXPDSet3pAdcpGGHpP_1HdRFQ/view?usp=sharing)
+📄 [Download Resume](https://drive.google.com/file/d/1RjomrarJzCxN5GsajR033U0m4Svg7_MH/view?usp=sharing)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/sam-zandian-98155a120/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/sam_znd/)
