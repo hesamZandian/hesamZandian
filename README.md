@@ -9,9 +9,9 @@ Currently serving in public/military service, I am available for freelance or pa
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samznd&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff)
 
 
-👨‍💻 [My Portfolio](https://hesamzandian.dev)
+👨‍💻 [My Portfolio](https://samzandian.com)
 
-📄 [Download Resume](https://drive.google.com/file/d/1iKrCsdBQDc6fWrM8MlyoSaVc-4r7BT9n/view?usp=sharing)
+📄 [Download Resume](https://drive.google.com/file/d/1SO4PtM0dYLj4HhhODuc5OCR8qUfbldOv/view)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/sam-zandian-98155a120/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/sam_znd/)
